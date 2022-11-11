@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a Frontend Developer who loves React.
+Frontend Developer who loves React.
 
 * 🌍  I'm based in Milton Keynes, UK
 * 🖥️  See my portfolio at [My portfolio](http://p0niat.github.io/js-projects/)
@@ -12,7 +12,7 @@ I am a Frontend Developer who loves React.
 * 🚀  I'm currently working on [Online Shop React App](http://github.com/P0NIAT/REACT-crwn-clothing-v2.git)
 * 🧠  I'm learning AWS Lambda
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I am very physically active: Gym, Swimming, Running, Hiking...
+* ⚡  Being active gives me joy and life balance. My favourite ones: Gym, Swimming, Running, Cycling, Hiking...
 
 ### Skills
 
@@ -42,8 +42,8 @@ I am a Frontend Developer who loves React.
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/p0niat/ tropical_paradise" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p0niat&repo= tropical_paradise&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/p0niat/diamond-cms" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p0niat&repo=diamond-cms&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/p0niat/tropical_paradise" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p0niat&repo=tropical_paradise&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/p0niat/diamond-cms" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p0niat&repo=diamond-cms&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/p0niat/js-projects " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p0niat&repo=js-projects &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/p0niat/js-projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p0niat&repo=js-projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
