@@ -7,11 +7,11 @@ Frontend Developer
 Frontend Developer who loves React.
 
 * 🌍  I'm based in Milton Keynes, UK
-* 🖥️  See my portfolio at [My portfolio](http://p0niat.github.io/js-projects/)
+* 🖥️  See my portfolio at [My portfolio](https://p0niat.github.io/portfolio/)
 * ✉️  You can contact me at [poniat.ap@gmail.com](mailto:poniat.ap@gmail.com)
-* 🚀  I'm currently working on [Online Shop React App](http://github.com/P0NIAT/REACT-crwn-clothing-v2.git)
-* 🧠  I'm learning AWS Lambda
-* 🤝  I'm open to collaborating on Projects
+* 🚀  I'm currently working on [Online Shop React App](https://p0niat.github.io/crown-store)
+* 🧠  I'm learning Algorithms & Data Structures
+* 🤝  I'm open to collaborating on Projects
 * ⚡  Being active gives me joy and life balance. My favourite ones: Gym, Swimming, Running, Cycling, Hiking...
 
 ### Skills
